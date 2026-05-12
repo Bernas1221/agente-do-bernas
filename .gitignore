@@ -1,0 +1,6 @@
+# Excluir arquivos sensíveis e metadados
+env
+.env
+*.pyc
+__pycache__/
+.DS_Store
